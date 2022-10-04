@@ -2,7 +2,7 @@
 
 ## Deployed Site
 
-[https://comforting-caramel-46654a.netlify.app/](https://comforting-caramel-46654a.netlify.app/)
+[https://code-fellows-glossary.netlify.app/](https://code-fellows-glossary.netlify.app/)
 
 ## Members
 
